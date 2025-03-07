@@ -102,7 +102,7 @@ const GlobalStyle = styled.createGlobalStyle`
   }
   body {
     font-family: "Pretendard", sans-serif;
-    background-color: #f5f5f5;
+    background-color: #f7f8f9;
   }
 `;
 

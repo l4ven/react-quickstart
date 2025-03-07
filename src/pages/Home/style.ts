@@ -4,6 +4,8 @@ export const HomeCont = styled.div`
   width: 100%;
   height: 100%;
   margin-top: 80px;
+  background-color: #fff;
+  padding: 50px 0;
 `;
 
 export const InnerBox = styled.div`
